@@ -64,7 +64,7 @@
             <h3>Văn học</h3>
         </div>
         <div class="category">
-            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/khoa_hoc_v2.jpg" alt="Khoa học">
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/khoa_hoc_v2.jpg?raw=true" alt="Khoa học">
             <h3>Khoa học</h3>
         </div>
         <div class="category">
