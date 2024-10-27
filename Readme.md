@@ -68,15 +68,15 @@
             <h3>Khoa học</h3>
         </div>
         <div class="category">
-            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/lich_su_v2.jpg" alt="Lịch sử">
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/lich_su_v2.jpg?raw=true" alt="Lịch sử">
             <h3>Lịch sử</h3>
         </div>
         <div class="category">
-            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/kinh_doanh_v2.jpg" alt="Kinh doanh">
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/kinh_doanh_v2.jpg?raw=true" alt="Kinh doanh">
             <h3>Kinh doanh</h3>
         </div>
         <div class="category">
-            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/thieu_nhi_v2.jpg" alt="Thiếu nhi">
+            <img src="https://github.com/tdk1411/TkWeb_Group10/blob/main/sachonlfinal/IMG/thieu_nhi_v2.jpg?raw=true" alt="Thiếu nhi">
             <h3>Thiếu nhi</h3>
         </div>
     </div>
